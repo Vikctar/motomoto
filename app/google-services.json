@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338208354931",
+    "firebase_url": "https://vikctar-330ec.firebaseio.com",
+    "project_id": "vikctar-330ec",
+    "storage_bucket": "vikctar-330ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338208354931:android:be0fd2e570cc0053",
+        "android_client_info": {
+          "package_name": "com.android_dev.motomoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338208354931-s93cqum7cm3g80cf10k30g182peffpkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkhYU-qVSZVQQy_84eG_Q4jpXAR9sXwU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
